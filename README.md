@@ -1,4 +1,4 @@
-![Image description](/static/huddle/img/NanoTune.png)
+![Alt text](static/huddle/img/NanoTune.png?raw=true "NanoTune")
 
 # nanotune.github.io
 
