@@ -1,4 +1,4 @@
-<img src="/static/huddle/img/NanoTune_bg.png" href="nanotune.github.io" width=""500></img>
+<img src="/static/huddle/img/NanoTune_bg.png" href="nanotune.github.io" width="500">
 
 https://nanotune.github.io
 
