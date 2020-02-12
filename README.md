@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto;margin-right: auto;" src="static/huddle/img/NanoTune.png" alt="" width="650">
+<img src="static/huddle/img/NanoTune.png" alt="">
 
 # nanotune.github.io
 
