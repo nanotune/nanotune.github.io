@@ -1,4 +1,4 @@
-<img src="static/huddle/img/NanoTune.png" alt="">
+![Image description](/static/huddle/img/NanoTune.png)
 
 # nanotune.github.io
 
