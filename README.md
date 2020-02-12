@@ -1,4 +1,4 @@
-![Alt text](/static/huddle/img/NanoTune_bg.png?raw=true "NanoTune")
+<img src="/static/huddle/img/NanoTune_bg.png" href="nanotune.github.io" width=""500></img>
 
 https://nanotune.github.io
 
